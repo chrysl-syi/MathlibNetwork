@@ -2,7 +2,7 @@ from MathlibNet import MathlibNet
 from VisualRender import NetworkRenderer
 
 # Dataset Path
-pathStr = "E:\program\MathlibExplorer\project\Mathlib"
+pathStr = "**\Mathlib"
 
 MathNet = MathlibNet(pathStr)
 MathNet.create()
